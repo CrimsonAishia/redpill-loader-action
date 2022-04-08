@@ -8,8 +8,8 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no",
-    "esataportcfg": "0x3",
-    "internalportcfg": "0x3fffc"	
+    "esataportcfg": "0x00f0",
+    "internalportcfg": "0xff0f"	
   },
   "ramdisk_copy": {}
 }
