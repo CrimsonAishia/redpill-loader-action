@@ -7,7 +7,9 @@
   },
   "synoinfo": {
     "supportsystemperature": "no",
-    "supportsystempwarning": "no"
+    "supportsystempwarning": "no",
+    "esataportcfg": "0x30000",
+    "internalportcfg": "0xffff"	
   },
   "ramdisk_copy": {}
 }
