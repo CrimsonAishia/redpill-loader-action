@@ -10,7 +10,7 @@
     "supportsystempwarning": "no",
     "usbportcfg": "0x0",
     "esataportcfg": "0x0",
-    "internalportcfg": "0xffffffff",
+    "internalportcfg": "0xffffff",
     "maxdisks": "24"
   },
   "ramdisk_copy": {}
